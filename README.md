@@ -1,6 +1,6 @@
 # All Projects of Undergrad (BSc in CSE)
 
-This repository contains all the academic and personal projects I developed while completing my **BSc in Computer Science and Engineering (CSE)** at **Khwaja Yunus Ali University** (Duration: July 2022 to July 2026).
+This repository serves as a personal archive of all the self-driven and academic projects I independently developed while pursuing my **BSc in Computer Science and Engineering (CSE)** at **Khwaja Yunus Ali University** (Duration: July 2022 to July 2026).
 
 ---
 
